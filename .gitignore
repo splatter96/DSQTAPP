@@ -1,0 +1,10 @@
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+#Above two are used to ignore the binary without an extension
+
+*.swp
+*.o
+moc_*
+ui_*
